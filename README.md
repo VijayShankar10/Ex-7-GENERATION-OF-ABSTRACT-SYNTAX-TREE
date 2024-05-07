@@ -1,6 +1,7 @@
 # Ex-7-GENERATION-OF-ABSTRACT-SYNTAX-TREE
 CONVERSION OF THE BNF RULES INTO YACC FORM AND GENERATION OF ABSTRACT SYNTAX TREE
-# Date:
+# Register No: 212222040178
+# Date: 20.3.24
 # Aim: 
 To write a program to convert the BNF rules into YACC form and to generate Abstract Syntax Tree.
 # ALGORITHM
